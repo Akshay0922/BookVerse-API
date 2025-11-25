@@ -1,0 +1,9 @@
+// Books data as an array
+let books = [
+    { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald", publishedYear: 1925 },
+    { id: 2, title: "To Kill a Mockingbird", author: "Harper Lee", publishedYear: 1960 },
+    { id: 3, title: "The Great Man", author: "John Smith", publishedYear: 1999 },
+    { id: 4, title: "Gullivier Travel", author: "Jonathan Swift", publishedYear: 1726 },
+];
+
+module.exports = books;
